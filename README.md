@@ -1,0 +1,1 @@
+This repository contains a simple Tcl script demonstrating a common error: misusing the `return` statement within an expression. The `bug.tcl` file shows the erroneous code, while `bugSolution.tcl` provides the corrected version.
